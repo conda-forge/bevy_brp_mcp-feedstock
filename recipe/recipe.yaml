@@ -1,5 +1,5 @@
 context:
-  version: "0.22.7"
+  version: "0.22.8"
 
 package:
   name: bevy_brp_mcp
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/natepiano/bevy_brp/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: f59c24fbc14f4c76b4215cbeec012fd284a38233db43a65251100c1cce9d7ff1
+  sha256: fd94367b00b46a82d60a80a94af470491656c21f8ece6140310afdbedcf531dc
 
 build:
   number: 0
